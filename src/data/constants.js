@@ -89,6 +89,54 @@ export const skills = [
     ],
   },
   {
+    title: "Artificial Intelligence & Data Science",
+    skills: [
+      {
+        name: "Scikit-learn",
+        image:
+        "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg",
+      },
+      {
+        name: "TensorFlow",
+        image: "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      },
+      {
+        name: "PyTorch",
+        image:
+          "https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+      },
+      {
+        name: "Numpy",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s"
+      },
+      {
+        name: "Pandas",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      },
+      {
+        name: "Langchain",
+        image:
+          "https://avatars.githubusercontent.com/u/126733545?s=280&v=4"
+      },
+      {
+        name: "Opencv",
+        image:
+          "https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png",
+      },
+      {
+        name: "ollama",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYYSwi-WiW9rVrDT4iEJC_Rfpii57iFBf0g&s",
+      },
+      {
+        name: "Llamaindex",
+        image:
+          "https://www.devturtleblog.com/wp-content/uploads/2024/05/llamaindex-wallpaper.webp",
+      },
+    ],
+  },
+  {
     title: "Cloud",
     skills: [
       {
@@ -110,6 +158,11 @@ export const skills = [
         name: "GCP",
         image:
           "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg",
+      },
+      {
+        name: "Firebase",
+        image:
+          "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       },
       {
         name: "Heroku",
@@ -199,7 +252,12 @@ export const skills = [
         name: "Plotly",
         image:
           "https://avatars.githubusercontent.com/u/5997976?s=280&v=4"
-        },
+      },
+      {
+          name: "Seaborn",
+          image:
+            "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+      },
       {
         name: "Tableau",
         image:
