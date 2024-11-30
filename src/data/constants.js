@@ -16,17 +16,17 @@ export const Bio = {
 
 export const skills = [
   {
-    title: "Software Development & Programming",
+    title: "Programming Languages & Frameworks",
     skills: [
       {
         name: "Python",
         image:
-        "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       },
       {
         name: "Golang",
         image:
-          "https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg",
       },
       {
         name: "Flask",
@@ -37,58 +37,59 @@ export const skills = [
         image:
           "https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1007202637W10000h5483/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/django-logo-sticker.jpg",
       },
+      {
+        name: "Gin",
+        image:
+          "https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
+      },
+      {
+        name: "Ginkgo",
+        image:
+          "https://onsi.github.io/ginkgo/images/ginkgo.png"
+        },
     ],
   },
   {
     title: "Artificial Intelligence & Data Science",
     skills: [
       {
-        name: "Data Analysis",
-        image: "https://w7.pngwing.com/pngs/73/309/png-transparent-yellow-graph-increase-icon-or-logo.png",
-      },
-      {
         name: "Machine Learning",
         image:
-        "https://cdn-icons-png.flaticon.com/512/8637/8637099.png",
+        "https://w7.pngwing.com/pngs/326/911/png-transparent-deep-learning-with-keras-machine-learning-artificial-intelligence-others-angle-white-text-thumbnail.png",
       },
       {
         name: "Deep Learning",
-        image: "https://static.vecteezy.com/system/resources/previews/025/251/990/original/machine-learning-icon-png.png",
+        image: "https://cdn-icons-png.flaticon.com/512/2103/2103718.png"
       },
       {
         name: "NLP",
         image:
-          "https://cdn.iconscout.com/icon/premium/png-256-thumb/nlp-8926384-7279481.png",
+          "https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA",
       },
 
       {
         name: "Large Language Models",
         image:
-          "https://t3.ftcdn.net/jpg/06/77/55/04/360_F_677550453_HphDR0L3DSuRl33YrbrpYDo5vJw6eRoa.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
       },
       {
         name: "Computer Vision",
         image:
-          "https://cdn.iconscout.com/icon/premium/png-256-thumb/computer-vision-1524279-1290826.png",
+          "https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png",
       },
       {
         name: "Generative AI",
         image: "https://ih1.redbubble.net/image.4911784195.8379/st,small,507x507-pad,600x600,f8f8f8.jpg",
       },
       {
-        name: "MLOps principles",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaHxcXLpqrJXKcj_cXcwQQQiBe659hMlLIn6CuHSk0jEQG3VUG_6tG7aArEMhegsFy1I&usqp=CAU",
-      },
-      {
         name: "Prompt Engineering",
         image:
-          "https://businessolution.org/wp-content/uploads/2023/02/Prompt-Engineering.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYsHf6S3lBIP9ULSpX5f9-fbLgscLe7y_k7bd3yCt_t9641fKW0rkbhU1ZjAv-DctWGT0&usqp=CAU",
       },
     ],
   },
   {
-    title: "Cloud Computing & Infrastructure and Tools",
+    title: "Cloud",
     skills: [
       {
         name: "IBM Cloud",
@@ -98,28 +99,28 @@ export const skills = [
       {
         name: "AWS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
       },
       {
-        name: "CI/CD pipelines",
+        name: "Azure",
         image:
-          "https://www.eficode.com/hs-fs/hubfs/Eficode%202020%20site%20images/Hexagons/CI%20CD%20pipeline%20hexagon-2.png?width=600&name=CI%20CD%20pipeline%20hexagon-2.png",
+          "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg",
       },
       {
-        name: "Cloud Computing",
+        name: "GCP",
         image:
-          "https://cdn-icons-png.flaticon.com/512/4215/4215831.png",
+          "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg",
       },
       {
-        name: "Containerization",
+        name: "Heroku",
         image:
-          "https://assets-global.website-files.com/62bd9427ec73a11840fe243a/647f308a927f9e56261ca9d7_containerization%20preview.jpeg.jpg",
+          "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg",
       },
-      {
-        name: "Microservices",
-        image:
-          "https://runestone.academy/ns/books/published/py4e-int/_images/web_crawler.png",
-      },
+    ],
+  },
+  {
+    title: "DevOps and Development Tools ",
+    skills: [
       {
         name: "Docker",
         image:
@@ -130,7 +131,11 @@ export const skills = [
         image:
           "https://www.svgrepo.com/show/376331/kubernetes.svg",      
       },
-      
+      {
+        name: "Jenkins CI/CD pipelines",
+        image:
+          "https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+        },
       {
         name: "Tekton",
         image:
@@ -156,13 +161,20 @@ export const skills = [
         image:
           "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
-      
-
+      {
+        name: "Microservices",
+        image:
+          "https://runestone.academy/ns/books/published/py4e-int/_images/web_crawler.png",
+      },
     ],
   },
   {
     title: "Data Analytics & Visualization",
     skills: [
+      {
+        name: "Data Analysis",
+        image: "https://w7.pngwing.com/pngs/73/309/png-transparent-yellow-graph-increase-icon-or-logo.png",
+      },
       {
         name: "SQL",
         image:
@@ -186,17 +198,17 @@ export const skills = [
       {
         name: "Plotly",
         image:
-          "https://media.licdn.com/dms/image/D5612AQGTzGGnu886Vw/article-cover_image-shrink_720_1280/0/1680581578662?e=2147483647&v=beta&t=Jc3XYEXXsZNfua5Dy96AX17G59H2LrEj4mcGb6rWt60",
-      },
+          "https://avatars.githubusercontent.com/u/5997976?s=280&v=4"
+        },
       {
         name: "Tableau",
         image:
-          "https://media.licdn.com/dms/image/D5612AQGTzGGnu886Vw/article-cover_image-shrink_720_1280/0/1680581578662?e=2147483647&v=beta&t=Jc3XYEXXsZNfua5Dy96AX17G59H2LrEj4mcGb6rWt60",
-      },
+          "https://w7.pngwing.com/pngs/815/646/png-transparent-tableau-full-logo-tech-companies-thumbnail.png"
+        },
       {
         name: "Power BI",
         image:
-          "https://media.licdn.com/dms/image/D5612AQGTzGGnu886Vw/article-cover_image-shrink_720_1280/0/1680581578662?e=2147483647&v=beta&t=Jc3XYEXXsZNfua5Dy96AX17G59H2LrEj4mcGb6rWt60",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlW7tjWKlsaJgq5zgUEdhTQBJJ0bi2bBhq1g&s"
       },
     ],
   },
