@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Palkesh-7",
   resume:
-    "https://drive.google.com/file/d/1g1a3VPYCHQT_e5f7ppjlt1EZt-apnPEA/view?usp=sharing",
+    "https://drive.google.com/file/d/1U3sTofDz2fZ69LbK1A8HbXlsZcVcPvsh/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/palkesh-malviya/",
   email:"palkeshmalviyaofficial.108@gmail.com"
 };
